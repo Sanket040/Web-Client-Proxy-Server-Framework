@@ -2,7 +2,7 @@
 implementation of basic web client, web server, web Proxy
 
 
-##1) For client.py 
+1) For client.py 
 
 - first download library Beautiful Soup (if not downloaded)
 
@@ -13,7 +13,7 @@ implementation of basic web client, web server, web Proxy
      Enter path : /
 
 
-##2) For proxy.py
+2) For proxy.py
 
 - first run python3 proxy.py 
 
@@ -33,7 +33,7 @@ implementation of basic web client, web server, web Proxy
 	same as client.py
 
 
-##3) for server.py
+3) for server.py
 
 - run server.py 
 
@@ -54,7 +54,7 @@ implementation of basic web client, web server, web Proxy
   else 
 	same as client.py
 
- ##4) -  run extended_proxy.py 
+ 4) -  run extended_proxy.py 
 
 - now run client.py
 
